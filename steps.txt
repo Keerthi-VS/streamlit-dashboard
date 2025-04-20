@@ -1,0 +1,10 @@
+1. open vs code software 
+2. open folder in vs code that is material_data
+3. in that dashboard.py will open 
+4. in vs code open terminal 
+5. new terminal 
+6. it will show like this in terminal  C:\Users\vskee\OneDrive\Desktop\material_dashboard>
+7. in that write this command : streamlit run dashboard.py
+8. 7th step will direct to host  local url link i,e : Local URL: http://localhost:8501
+9. next dash board will open 
+10.in that upload the excel file 
